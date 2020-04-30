@@ -1,6 +1,15 @@
 # A Review of Deep Learning Methods on ECG Data
 
-Shenda Hong, Yuxi Zhou, Junyuan Shang, Cao Xiao, and Jimeng Sun. "Opportunities and Challenges in Deep Learning Methods on Electrocardiogram Data: A Systematic Review." arXiv preprint arXiv:2001.01550 (2019). https://arxiv.org/pdf/2001.01550.pdf
+Shenda Hong, Yuxi Zhou, Junyuan Shang, Cao Xiao, and Jimeng Sun. "Opportunities and Challenges of Deep Learning Methods for Electrocardiogram Data: A Systematic Review." Accepted by Computers in Biology and Medicine. https://arxiv.org/pdf/2001.01550.pdf
+
+We are keep updating new papers in this repo and our arXiv version! If you have any recommendations, please open an issue or send us an email, including below information: 
+* Title
+* Link
+* Venue
+* Task
+* Method
+* Dataset
+* A brief description.
 
 
 ## Summary Table (Updating. Feb 29, 2020)
